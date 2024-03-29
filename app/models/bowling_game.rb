@@ -1,0 +1,2 @@
+class BowlingGame < ApplicationRecord
+end
